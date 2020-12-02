@@ -4,5 +4,5 @@ This is code to run a spam detection programm coded in **Octave** , which takes 
 
 #### How to run
 - Download the GNU octave app on your respective machine
-- Navigate to the folder **beginner_spam_detector**
+- Navigate to the folder **beginner_spam_detection**
 - Run the executable **ex6_spam** by typing ex6_spam
